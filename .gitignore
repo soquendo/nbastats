@@ -1,0 +1,19 @@
+# Ignore Node.js dependencies
+node_modules/
+package-lock.json
+
+# Ignore environment variables
+.env
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore build files
+frontend/build/
+backend/build/
+
+# Ignore log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
